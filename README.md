@@ -1,6 +1,6 @@
 # Tac Toe with Vue.js 
 # Play This Game 
-click this link to play this game 👉 https://teguh010.github.io/teguh-vue-tic-tac-toe/#/
+click this link to play this game 👉 https://teguh010.github.io/teguhVue-tic-tac-toe-game/#/
 
 
 ## Requirements
